@@ -1,0 +1,26 @@
+{
+  "name": "epicgame",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fu-tyan/frontend2015.git"
+  },
+  "author": "Foo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fu-tyan/frontend2015/issues"
+  },
+  "homepage": "https://github.com/fu-tyan/frontend2015#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^2.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-fest": "^0.1.5",
+    "grunt-shell": "^1.1.2"
+  }
+}
